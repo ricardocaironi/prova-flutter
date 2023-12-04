@@ -61,9 +61,11 @@ Requisitos para a tela de Informações:
    <br>
     - Obrigatório a utilização do plugin MOBX para a construção da tela.
 </div>  
+  <table align="center">
  <td>
     <img src="https://github.com/ricardocaironi/prova-flutter/blob/master/assets/escopo_info.jpg" alt="Details Page - version mobile" height="500px">
  </td>
+ <table/>
 
 
 <br>
