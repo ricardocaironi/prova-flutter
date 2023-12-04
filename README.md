@@ -6,7 +6,7 @@
 <br>
 
 
- <div align="center">  
+ <div>  
   Proposta: Desenvolver um aplicativo em flutter com duas telas, sendo uma tela de login e uma de captura de informações.
 </div>
 <br>
@@ -37,7 +37,7 @@ Requisitos para a tela de login:
 </div>  
 <br>
  <td>
-    <img src="https://github.com/ricardocaironi/desafio1-escribo/blob/master/assets/imagens/abrir_projeto.jpg" alt="Details Page - version mobile" height="500px">
+    <img src="https://github.com/ricardocaironi/prova-flutter/blob/master/assets/escopo_login.jpg" alt="Details Page - version mobile" height="500px">
  </td>
 
 #
@@ -62,7 +62,7 @@ Requisitos para a tela de Informações:
     - Obrigatório a utilização do plugin MOBX para a construção da tela.
 </div>  
  <td>
-    <img src="https://github.com/ricardocaironi/desafio1-escribo/blob/master/assets/imagens/abrir_projeto.jpg" alt="Details Page - version mobile" height="500px">
+    <img src="https://github.com/ricardocaironi/prova-flutter/blob/master/assets/escopo_info.jpg" alt="Details Page - version mobile" height="500px">
  </td>
 
 
@@ -84,7 +84,6 @@ Requisitos para a tela de Informações:
   <td>Framework Flutter</td>  
   <td>Dart</td>
   <td>S.O.L.I.D</td>
-  <td>Path Provider</td>
   <td>Git</td>
   <td>GitHub</td>
  </tr>
@@ -101,6 +100,8 @@ Requisitos para a tela de Informações:
 <table align="center">
  <tr>
   <td>Shared_preferences</td> 
+  <td>mask_text_input_formatter</td>
+  <td>url_launcher</td>
  </tr> 
 </table>
 
@@ -109,7 +110,7 @@ Requisitos para a tela de Informações:
  <br>
 
  <div align="center">  
-  <strong> - Telas desenvolvidas - </strong>
+  <strong> - Telas Desenvolvidas - </strong>
 </div>   
 <br>
 
@@ -118,18 +119,21 @@ Requisitos para a tela de Informações:
  <br>
 
   <br>
-  
+   <table align="center">
  <td>
-    <img src="https://github.com/ricardocaironi/desafio1-escribo/blob/master/assets/imagens/abrir_projeto.jpg" alt="Details Page - version mobile" height="500px">
+    <img src="https://github.com/ricardocaironi/prova-flutter/blob/master/assets/login.png" alt="Details Page - version mobile" height="500px">
  </td>
+      <table/>
   <br>
   <br>
   
  2 - Tela de Informações
   <br>
-  <br>
+
+   <table align="center">
  <td>
-   <img src="https://github.com/ricardocaironi/desafio1-escribo/blob/master/assets/imagens/main.jpg" alt="Details Page - version mobile" height="500px">
+   <img src="https://github.com/ricardocaironi/prova-flutter/blob/master/assets/info.png" alt="Details Page - version mobile" height="500px">
  </td>
+    <table/>
   <br>
   <br>
